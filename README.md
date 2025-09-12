@@ -4,7 +4,7 @@ Eu sou <strong>Matheus Martins</strong>, <strong>Atualmente estudante do 1º per
  
 - 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 - 💬 Pergunte-me sobre: <strong>A definir</strong>
-- 📣 Nós podemos falar em: <strong>Português e inglês avançado</strong>
+- 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
  
 <div align="center">
  
