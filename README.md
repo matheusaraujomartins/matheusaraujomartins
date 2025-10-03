@@ -2,9 +2,9 @@
  
 Eu sou <strong>Matheus Martins</strong>, <strong>Atualmente estudante do 1º período no curso de Análise e Desenvolvimento de Sistemas, turma 02/2025 na Faculdade Senac/PE</strong> 👨🏻‍💻
  
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
 - 💬 Pergunte-me sobre: <strong>A definir</strong>
-- 📣 Nós podemos falar em: <strong>Português e Inglês</strong>
+- 📣 Línguas/Languages: <strong>Português/English</strong>
  
 <div align="center">
  
